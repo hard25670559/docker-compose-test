@@ -1,0 +1,19 @@
+/laravel-test/vendor/
+/laravel-test/node_modules/
+/laravel-test/npm-debug.log
+/laravel-test/yarn-error.log
+
+# Laravel 4 specific
+/laravel-test/bootstrap/compiled.php
+/laravel-test/app/storage/
+
+# Laravel 5 & Lumen specific
+/laravel-test/public/storage
+/laravel-test/public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+/laravel-test/public_html/storage
+/laravel-test/public_html/hot
+
+/laravel-test/storage/*.key
+.env
